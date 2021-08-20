@@ -1,5 +1,7 @@
 ### hi there 👋
 
+i'm jack (17) and currently studying for my a-levels
+
 - 🔭 **i’m currently working on** getting through college
 - 🌱 **i’m currently re-learning** how to develop web apps
 - 👯 **i’m looking to collaborate on** a web browser/Linux OS
